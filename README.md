@@ -1,4 +1,4 @@
-# Huffman
+# HUFFMAN
 
 Takes input and provides compressed output via the Huffman encoding algorithm.
 
